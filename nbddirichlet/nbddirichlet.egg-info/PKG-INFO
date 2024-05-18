@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: nbddirichlet
+Version: 0.1.0
+Summary: NBD-Dirichlet Model of Consumer Buying Behavior for Marketing Research
+Author: Massimiliano Marinucci
+Author-email: mmarinucci@numinate.com
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: pandas

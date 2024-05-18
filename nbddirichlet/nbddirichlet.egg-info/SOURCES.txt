@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+nbddirichlet/__init__.py
+nbddirichlet/dirichlet.py
+nbddirichlet/plot_dirichlet.py
+nbddirichlet/print_dirichlet.py
+nbddirichlet/summary_dirichlet.py
+nbddirichlet.egg-info/PKG-INFO
+nbddirichlet.egg-info/SOURCES.txt
+nbddirichlet.egg-info/dependency_links.txt
+nbddirichlet.egg-info/requires.txt
+nbddirichlet.egg-info/top_level.txt

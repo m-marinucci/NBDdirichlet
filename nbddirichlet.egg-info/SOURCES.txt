@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+nbddirichlet.egg-info/PKG-INFO
+nbddirichlet.egg-info/SOURCES.txt
+nbddirichlet.egg-info/dependency_links.txt
+nbddirichlet.egg-info/requires.txt
+nbddirichlet.egg-info/top_level.txt
